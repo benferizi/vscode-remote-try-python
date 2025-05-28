@@ -1,0 +1,40 @@
+PID: 19137 START: 1748462066401700864 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20250528T195419Z-P00004ac1/repo-20250528T195426Z-P00004ac1]
+
+PID: 19137 START: 1748462066419573504 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19137 END: 1748462066422303744 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19137 END: 1748462066422593024 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20250528T195419Z-P00004ac1/repo-20250528T195426Z-P00004ac1]
+
+PID: 19249 START: 1748462230533960448 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: sync [sid=repo-20250528T195710Z-P00004b31/repo-20250528T195710Z-P00004b31]
+
+PID: 19249 START: 1748462230536546816 :git command None ['git', 'config', '--file', '/home/user/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/user/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 19249 END: 1748462230538364928 :git command None ['git', 'config', '--file', '/home/user/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/user/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 19249 START: 1748462230545001728 :git command None ['git', 'config', '--file', '/home/user/vscode-remote-try-python/.repo/repo/.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/user/vscode-remote-try-python/.repo/repo/.git/config --includes --null --list 1>| 2>|
+
+PID: 19249 END: 1748462230546698752 :git command None ['git', 'config', '--file', '/home/user/vscode-remote-try-python/.repo/repo/.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/user/vscode-remote-try-python/.repo/repo/.git/config --includes --null --list 1>| 2>|
+
+PID: 19249 START: 1748462230553770240 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19249 END: 1748462230555528192 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19249 END: 1748462230555925760 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: sync [sid=repo-20250528T195710Z-P00004b31/repo-20250528T195710Z-P00004b31]
+
+PID: 19559 START: 1748463062610299136 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: sync [sid=repo-20250528T201102Z-P00004c67/repo-20250528T201102Z-P00004c67]
+
+PID: 19559 START: 1748463062610968576 :: parsing /home/user/.gitconfig
+
+PID: 19559 END: 1748463062611063296 :: parsing /home/user/.gitconfig
+
+PID: 19559 START: 1748463062616771840 :: parsing /home/user/vscode-remote-try-python/.repo/repo/.git/config
+
+PID: 19559 END: 1748463062616869632 :: parsing /home/user/vscode-remote-try-python/.repo/repo/.git/config
+
+PID: 19559 START: 1748463062619343872 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19559 END: 1748463062621293056 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 19559 END: 1748463062621400576 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: sync [sid=repo-20250528T201102Z-P00004c67/repo-20250528T201102Z-P00004c67]
+
